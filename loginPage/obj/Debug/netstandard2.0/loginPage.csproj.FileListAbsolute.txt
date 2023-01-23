@@ -1,0 +1,8 @@
+/Users/SU20380276/Projects/loginPage/loginPage/loginPage/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/SU20380276/Projects/loginPage/loginPage/loginPage/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/SU20380276/Projects/loginPage/loginPage/loginPage/obj/Debug/netstandard2.0/loginPage.AssemblyInfoInputs.cache
+/Users/SU20380276/Projects/loginPage/loginPage/loginPage/obj/Debug/netstandard2.0/loginPage.AssemblyInfo.cs
+/Users/SU20380276/Projects/loginPage/loginPage/loginPage/obj/Debug/netstandard2.0/loginPage.csproj.CoreCompileInputs.cache
+/Users/SU20380276/Projects/loginPage/loginPage/loginPage/obj/Debug/netstandard2.0/loginPage.dll
+/Users/SU20380276/Projects/loginPage/loginPage/loginPage/obj/Debug/netstandard2.0/ref/loginPage.dll
+/Users/SU20380276/Projects/loginPage/loginPage/loginPage/obj/Debug/netstandard2.0/loginPage.pdb

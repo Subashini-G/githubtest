@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "xb8YH/KbygXpL63mDXrBr3oXfapdS+kjBo9TL2dLXr9f4Xh8hEo63SIrJpkBNQD4KV82+GWHg8+HrgoEpg+3hA==",
+  "success": true,
+  "projectFilePath": "/Users/SU20380276/Projects/loginPage/loginPage/loginPage/loginPage.csproj",
+  "expectedPackageFiles": [
+    "/Users/SU20380276/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/SU20380276/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/SU20380276/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/SU20380276/.nuget/packages/xamarin.essentials/1.7.3/xamarin.essentials.1.7.3.nupkg.sha512",
+    "/Users/SU20380276/.nuget/packages/xamarin.forms/5.0.0.2515/xamarin.forms.5.0.0.2515.nupkg.sha512"
+  ],
+  "logs": []
+}

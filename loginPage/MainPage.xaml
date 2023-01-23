@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="loginPage.MainPage">
+
+    <StackLayout BackgroundColor="LightPink"
+                 Margin="15"
+                 VerticalOptions="Center">
+        <Entry Placeholder="email"
+               Keyboard="Email"/>
+        <Entry Placeholder="password"
+               IsPassword="True"/>
+        <Button x:Name="registerButton" Text="Register"
+                BackgroundColor="Blue"
+                TextColor="White"
+                Clicked="registerButton_Clicked"/>
+        <Button x:Name="loginButton" Text="Login"
+                Background="blue"
+                TextColor="White"
+                Clicked="loginButton_Clicked"/>
+    </StackLayout>
+    
+</ContentPage>
+
